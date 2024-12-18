@@ -1,3 +1,9 @@
+### Note on Jupyter Notebook Outputs
+The Jupyter Notebook (`Disease Spread Simulation`) contains **printed outputs** and results for clarity. These outputs show the **step-by-step progression** of the disease spread simulation, including intermediate states, graphs, and analysis.
+
+This is done intentionally to provide a clear view of the model execution and the reasoning behind the simulation process.
+
+
 # Simulating the Spread of a Disease with Stochastic and Deterministic Models
 
 ## Project Overview
